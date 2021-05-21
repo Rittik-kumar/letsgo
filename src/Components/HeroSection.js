@@ -5,7 +5,7 @@ import './HeroSection.css';
 
 function HeroSection() {
     return (
-        <div className='Hero-container'>
+        <div className='hero-container'>
             <h1>ADVENTURE AWAITS</h1>
             <p>What are you waiting for?</p>
             <div className='hero-btns'>
