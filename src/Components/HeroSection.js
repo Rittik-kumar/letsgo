@@ -10,7 +10,6 @@ function HeroSection() {
             <p>What are you waiting for?</p>
             <div className='hero-btns'>
                 <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>Book a trip</Button>
-                <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>See Reviews</Button>
             </div>
         </div>
     )
